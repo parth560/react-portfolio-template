@@ -7,7 +7,7 @@ To get started with this project, you will need to have Node.js and Yarn install
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/parth560/react-portfolio-template.git
 
 Navigate to the project directory:
 
